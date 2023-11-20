@@ -10,7 +10,7 @@ This is a simple single page application to organize your work day. Simply type 
 ## Preview
 ![image](./Assets/image.png)
 
-Visit the live site [here!](https://andruegage.github.io/webapi-timed-quiz/)
+Visit the live site [here!]((https://andruegage.github.io/work-day-scheduler/))
 
 ## License
 
