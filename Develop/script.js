@@ -28,7 +28,7 @@ $(function () {
       if (number > currentHour) {
         $(this).addClass('future');
       }
-      if (number === currentHour) {
+      if (number == currentHour) {
         $(this).addClass('present');
       }
     })
